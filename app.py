@@ -1,1 +1,3 @@
-def dummy_function():\n    print('This is a dummy function')
+def dummy_function():
+    print('This is a dummy function')
+    print('This is the version from the master branch.')
